@@ -1,0 +1,7 @@
+How is a member function which destructs or deletes an object called?@@@@@@@@1.Destructor@@2.Instructor@@3.Constructor&
+Destructors have same name as the class preceded by ...@@@@@@@@1.#@@2.~@@3.@&
+Where is an array created dynamically?@@@@@@@@1.int num[5];@@2.int* num=new int[5];@@3.int num=5;&
+What is the maximum number of destructors in a class?@@@@@@@@1.One@@2.Two@@3.Five&
+How many cards are there in a deck of cards?@@@@@@@@1. 36@@2.  37@@3. 42&
+qqqq@@@@@@@@q@@q@@q&
+Emptyggg@@@@@@@@1@@2@@3&
